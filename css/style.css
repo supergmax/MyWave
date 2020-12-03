@@ -3,6 +3,14 @@ p {
     color: black;
 }
 
+h6 {
+    font-size: 80px;
+}
+
+.jumbotron {
+    background-color: #D9EBEC;
+}
+
 h1,h2{
     font-family: 'Montserrat', sans-serif;
     color: black;
